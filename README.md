@@ -3,7 +3,7 @@
 
 [![Rank](https://img.shields.io/badge/Rank-5th_Preliminary-blue.svg)]() [![Rank](https://img.shields.io/badge/Rank-Top_40_Finals-orange.svg)]() 
 
-> **Delta-GameGPT** is the award-winning open-source solution for the 2026 Tencent Game Security Technical Competition (Delta GameGPT Track). This project achieves high-precision micro-action prediction and hallucination-free tactical narrative generation based on complex FPS game logs.
+> **Delta-GameGPT 🎮** is the open-source solution for the 2026 Tencent Game Security Technical Competition (Delta GameGPT Track). Earning **5th place in the Preliminary Round** and advancing as a **Top 40 Finalist**, this project achieves high-precision micro-action prediction and hallucination-free tactical narrative generation based on complex FPS game logs.
 
 ## 📖 Overview
 
